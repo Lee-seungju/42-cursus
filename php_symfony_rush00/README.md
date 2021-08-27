@@ -12,7 +12,6 @@
 
 ![php_rush_fight](https://user-images.githubusercontent.com/53372971/131066668-a364e0a2-11ad-4b73-bc0c-1ba88374b965.gif)
 
-#### illustrat book - 
-If you have captured an enemy, the enemy will be recorded in the journal and you can view detailed information about the captured enemy in the journal.
+#### illustrat book - If you have captured an enemy, the enemy will be recorded in the journal and you can view detailed information about the captured enemy in the journal.
 
 ![php_rush_illust](https://user-images.githubusercontent.com/53372971/131066672-8a609e11-98b2-4516-baa8-67833424593e.gif)
