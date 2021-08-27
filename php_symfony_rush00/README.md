@@ -1,6 +1,6 @@
 # php_symfony_rush00
 
-#### **Login - You can log in by entering your nickname on the login screen.
+#### **Login** - You can log in by entering your nickname on the login screen.
 
 ![php_rush_login](https://user-images.githubusercontent.com/53372971/131066652-378127ce-3952-4573-86b3-c1837813b3d1.gif)
 
