@@ -1,5 +1,7 @@
 # minishell
 
+https://blog.naver.com/seungju0000/222485340811
+
 ![minishell](https://user-images.githubusercontent.com/53372971/131770553-ab2be6ef-383c-4e39-aafa-a6f77403f9e1.JPG)
 
 This program can implement some features of bash.
