@@ -1,5 +1,8 @@
 # php_symfony_rush00
 
+![php](https://user-images.githubusercontent.com/53372971/131774737-6cb81057-fce5-4b65-9ca1-74e259c23db6.JPG)
+
+
 #### Login - You can log in by entering your nickname on the login screen.
 
 ![php_rush_login](https://user-images.githubusercontent.com/53372971/131066652-378127ce-3952-4573-86b3-c1837813b3d1.gif)
