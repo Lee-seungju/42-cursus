@@ -11,8 +11,7 @@ This project is to change the top alignment to the bottom. This program has an A
 
 ![a2](https://user-images.githubusercontent.com/53372971/131775363-2e565f65-6227-49bd-a11e-666fed217b0b.JPG)
 
-## sa 
-: swap a - swap the first 2 elements at the top of stack a. Do nothing if there is only one or no elements).
+### sa : swap a - swap the first 2 elements at the top of stack a. Do nothing if there is only one or no elements).
 
 sb : swap b - swap the first 2 elements at the top of stack b. Do nothing if there is only one or no elements).
 
