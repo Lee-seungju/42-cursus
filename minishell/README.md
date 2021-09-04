@@ -2,7 +2,7 @@
 
 [![slee2's 42Project Score](https://badge42.herokuapp.com/api/project/slee2/minishell)](https://github.com/JaeSeoKim/badge42)
 
-https://blog.naver.com/seungju0000/222485340811
+[알고리즘과 설명](https://velog.io/@seungju0000/series/minishell)
 
 ![minishell](https://user-images.githubusercontent.com/53372971/131770553-ab2be6ef-383c-4e39-aafa-a6f77403f9e1.JPG)
 
