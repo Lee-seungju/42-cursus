@@ -35,5 +35,13 @@ This project is to change the top alignment to the bottom. This program has an A
 
 `make`
 
+Put 100 random numbers into the program and check the output command again in the checker.
+`ARG=`./random.rb 100` ./push_swap $ARG | ./checker $ARG`
+
+Put 100 random numbers into the program and count the number of output commands.
+`ARG=`./random.rb 100` ./push_swap $ARG | wc -l`
+
+The random.rb file was created by smun in 42 Seoul.
+
 ![a3](https://user-images.githubusercontent.com/53372971/131775651-746a6fab-3e5c-4996-96db-7e59f0b51d3b.JPG)
 
