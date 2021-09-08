@@ -31,5 +31,9 @@ This project is to change the top alignment to the bottom. This program has an A
 
 #### rra : reverse rotate a - shift down all elements of stack a by 1. The last element becomes the first one.
 
+## How to use
+
+`make`
+
 ![a3](https://user-images.githubusercontent.com/53372971/131775651-746a6fab-3e5c-4996-96db-7e59f0b51d3b.JPG)
 
