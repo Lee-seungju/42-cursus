@@ -33,7 +33,9 @@ This project is to change the top alignment to the bottom. This program has an A
 
 ## How to use
 
-`make`
+```
+make
+```
 
 Put 100 random numbers into the program and check the output command again in the checker.
 
