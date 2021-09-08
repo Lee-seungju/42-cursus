@@ -44,7 +44,7 @@ ARG=`./random.rb 100` ./push_swap $ARG | ./checker $ARG
 Put 100 random numbers into the program and count the number of output commands.
 
 ```
-ARG=\`./random.rb 100\` ./push_swap $ARG | wc -l
+ARG=`./random.rb 100` ./push_swap $ARG | wc -l
 ```
 
 The random.rb file was created by smun in 42 Seoul.
