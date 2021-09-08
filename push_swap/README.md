@@ -37,7 +37,7 @@ This project is to change the top alignment to the bottom. This program has an A
 
 Put 100 random numbers into the program and check the output command again in the checker.
 
-`ARG=``./random.rb 100\`` ./push_swap $ARG | ./checker $ARG`
+`ARG=``./random.rb 100`` ./push_swap $ARG | ./checker $ARG`
 
 Put 100 random numbers into the program and count the number of output commands.
 
