@@ -6,7 +6,7 @@
 #    By: slee2 <slee2@student.42seoul.kr>           +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/07/27 20:25:03 by jimikim           #+#    #+#              #
-#    Updated: 2021/08/24 23:52:44 by jimikim          ###   ########.fr        #
+#    Updated: 2021/09/30 20:09:16 by slee2            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -87,10 +87,10 @@ SRCS = ./libft/ft_isdigit.c \
 OBJS = $(SRCS:.c=.o)
 
 $(NAME) : $(OBJS)
-	$(CC) $(CFLAGS) $(OBJS) -o $(NAME) -lncurses -lreadline -L ~/.brew/opt/readline/lib
+	$(CC) $(CFLAGS) $(OBJS) -o $(NAME) -lncurses -lreadline -L ~/../../opt/homebrew/opt/readline/lib
 
 %.o : %.c
-	$(CC) $(CFLAGS) -I$(INCLUDE) -c $^ -o $@ -I ~/.brew/opt/readline/include
+	$(CC) $(CFLAGS) -I $(INCLUDE) -c $^ -o $@ -I  ~/../../opt/homebrew/opt/readline/include
 
 all : $(NAME)
 
