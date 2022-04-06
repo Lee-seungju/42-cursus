@@ -35,7 +35,9 @@
 
 ### CPP Module 00 ~ 08
 00 [![slee2's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2311900)](https://github.com/JaeSeoKim/badge42)
+
 01 [![slee2's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2323140)](https://github.com/JaeSeoKim/badge42)
+
 02 [![slee2's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2395832)](https://github.com/JaeSeoKim/badge42)
 03 [![slee2's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2395985)](https://github.com/JaeSeoKim/badge42)
 04 [![slee2's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2398468)](https://github.com/JaeSeoKim/badge42)
