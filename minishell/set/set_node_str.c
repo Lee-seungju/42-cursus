@@ -32,9 +32,6 @@ int	set_node_str_check(char c, char *s, int *i)
 
 void	set_node_str_bslash(int *i, int *j, char *temp, char *s)
 {
-	int	quote;
-
-	quote = check_quote(s, (*i));
 	if (s[*i + 1] && check_quote(s, (*i) + 1) != 0)
 		temp[(*j)++] = s[(*i)++];
 	else if (s[*i + 1] && check_quote(s, (*i) + 1) == 0)

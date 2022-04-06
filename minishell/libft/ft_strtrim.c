@@ -32,12 +32,10 @@ static int	ft_get_start(char const *s1, char const *set)
 static int	ft_get_end(char const *s1, char const *set)
 {
 	size_t	len;
-	size_t	i;
 	char	*s;
 
 	len = ft_strlen(s1);
 	s = (char *)s1 + len - 1;
-	i = 0;
 	while (len--)
 	{
 		if (ft_strchr(set, *s) == 0)

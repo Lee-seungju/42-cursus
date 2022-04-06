@@ -89,7 +89,6 @@ void	export_valid_new_sub(char **result, char **new, int size, int *k)
 
 char	**export_valid_new(t_data *data, t_cmd *cmd, char **new)
 {
-	int		i;
 	int		k;
 	int		size;
 	char	**result;
@@ -99,7 +98,6 @@ char	**export_valid_new(t_data *data, t_cmd *cmd, char **new)
 	if (!result)
 		return (0);
 	data->envp_size = size;
-	i = -1;
 	k = 0;
 	size = 0;
 	while (new[size])

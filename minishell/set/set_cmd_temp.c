@@ -92,11 +92,9 @@ char	*set_cmd_temp(t_data *data, char *s, int idx)
 	char		*result;
 	char		*target;
 	char		**divide_clone;
-	t_global	*global;
 
 	result = 0;
 	target = 0;
-	global = get_global();
 	if (!data->d_int[data->d_idx++])
 		target = ft_strdup(s + idx + 1);
 	else

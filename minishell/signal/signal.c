@@ -15,14 +15,12 @@
 void	ctrl_d_signal(void)
 {
 	char			*cm;
-	char			*ce;
 	int				row;
 	t_global		*global;
 
 	global = get_global();
 	set_input_mode();
 	cm = tgetstr("cm", NULL);
-	ce = tgetstr("ce", NULL);
 	get_cursor_row(&row);
 	if (row > 0)
 		row--;
