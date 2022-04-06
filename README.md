@@ -39,9 +39,16 @@
 01 [![slee2's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2323140)](https://github.com/JaeSeoKim/badge42)
 
 02 [![slee2's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2395832)](https://github.com/JaeSeoKim/badge42)
+
 03 [![slee2's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2395985)](https://github.com/JaeSeoKim/badge42)
+
 04 [![slee2's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2398468)](https://github.com/JaeSeoKim/badge42)
+
 05 [![slee2's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2403195)](https://github.com/JaeSeoKim/badge42)
+
 06 [![slee2's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2416012)](https://github.com/JaeSeoKim/badge42)
+
 07 [![slee2's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2416743)](https://github.com/JaeSeoKim/badge42)
+
 08 [![slee2's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2417300)](https://github.com/JaeSeoKim/badge42)
+
