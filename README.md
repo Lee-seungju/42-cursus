@@ -6,7 +6,7 @@
 |-----|-----|
 |[Libft](https://velog.io/@seungju0000/Libft)|[![slee2's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2166494)](https://github.com/JaeSeoKim/badge42)|
 |[get_next_line](https://velog.io/@seungju0000/getnextline)|[![slee2's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2169586)](https://github.com/JaeSeoKim/badge42)|
-|ft_printf|[![slee2's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2169587)](https://github.com/JaeSeoKim/badge42)|
+|[ft_printf](https://velog.io/@seungju0000/ftprintf)|[![slee2's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2169587)](https://github.com/JaeSeoKim/badge42)|
 |netwhat|[![slee2's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2169588)](https://github.com/JaeSeoKim/badge42)|
 |php_symfony_rush00|[![slee2's 42 Rush 00 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2180456)](https://github.com/JaeSeoKim/badge42)|
 |pipex|[![slee2's 42 pipex Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2209762)](https://github.com/JaeSeoKim/badge42)| |
