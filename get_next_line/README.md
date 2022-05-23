@@ -1,4 +1,2 @@
 # get_next_line
-[![slee2's 42Project Score](https://badge42.herokuapp.com/api/project/slee2/get_next_line)](https://github.com/JaeSeoKim/badge42)
-
-7/8 - fix due to norm-v3
+[![slee2's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2169586)](https://github.com/JaeSeoKim/badge42)
