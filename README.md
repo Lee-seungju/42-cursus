@@ -1,4 +1,12 @@
-# 42-cursus
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/53372971/175764693-22ba1dec-deac-4d71-ac97-2a9662cac9c0.png" height="128px" alt="badge42 logo" >
+</div>
+
+
+---
+## 42 cursus
+
+**본과정 시작일** : 2021.05
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/stats?cursusId=21&coalitionId=86" alt="slee2's 42 stats" /></a>
 
