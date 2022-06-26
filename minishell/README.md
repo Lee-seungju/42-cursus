@@ -1,6 +1,6 @@
 # minishell
 
-[![slee2's 42Project Score](https://badge42.herokuapp.com/api/project/slee2/minishell)](https://github.com/JaeSeoKim/badge42)
+[![slee2's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2254934)](https://github.com/JaeSeoKim/badge42)
  
 [알고리즘과 설명](https://velog.io/@seungju0000/series/minishell)
 
