@@ -19,7 +19,7 @@
 |php_symfony_rush00|[![slee2's 42 Rush 00 Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2180456)](https://github.com/JaeSeoKim/badge42)|
 |pipex|[![slee2's 42 pipex Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2209762)](https://github.com/JaeSeoKim/badge42)| |
 |so_long|[![slee2's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2211787)](https://github.com/JaeSeoKim/badge42)|
-|push_swap|[![slee2's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2182145)](https://github.com/JaeSeoKim/badge42)|
+|[push_swap](https://velog.io/@seungju0000/pushswap-%ED%80%B5%EC%86%8C%ED%8A%B8)|[![slee2's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2182145)](https://github.com/JaeSeoKim/badge42)|
 |[Philosophers](https://velog.io/@seungju0000/philosophers-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[![slee2's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2254929)](https://github.com/JaeSeoKim/badge42)|
 |minishell|[![slee2's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2254934)](https://github.com/JaeSeoKim/badge42)|
 |cub3D|[![slee2's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/project/2336129)](https://github.com/JaeSeoKim/badge42)| |
